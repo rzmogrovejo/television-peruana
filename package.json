@@ -1,0 +1,24 @@
+{
+  "name": "tv-peruana-en-vivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "vue": "^3.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzmogrovejo/tv-peruana-en-vivo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzmogrovejo/tv-peruana-en-vivo/issues"
+  },
+  "homepage": "https://github.com/rzmogrovejo/tv-peruana-en-vivo#readme"
+}
