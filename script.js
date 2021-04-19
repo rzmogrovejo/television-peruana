@@ -5,7 +5,8 @@ const channels = [
 		"code": {
 			"national": "2",
 			"movistar-hd": "702"
-		}
+		},
+		"allowIframe": 0
 	},
 	{
 		"name": "America TV",
@@ -13,7 +14,8 @@ const channels = [
 		"code": {
 			"national": "4",
 			"movistar-hd": "704"
-		}
+		},
+		"allowIframe": 1
 	},
 	{
 		"name": "Panamericana",
@@ -21,7 +23,8 @@ const channels = [
 		"code": {
 			"national": "5",
 			"movistar-hd": "705"
-		}
+		},
+		"allowIframe": 1
 	},
 	{
 		"name": "TV Perú",
@@ -29,7 +32,8 @@ const channels = [
 		"code": {
 			"national": "7",
 			"movistar-hd": "707"
-		}
+		},
+		"allowIframe": 0
 	},
 	{
 		"name": "ATV",
@@ -37,7 +41,8 @@ const channels = [
 		"code": {
 			"national": "9",
 			"movistar-hd": "709"
-		}
+		},
+		"allowIframe": 1
 	},
 	{
 		"name": "Willax",
@@ -45,6 +50,7 @@ const channels = [
 		"code": {
 			"national": "16",
 			"movistar-hd": "716"
-		}
+		},
+		"allowIframe": 1
 	},	
 ];
